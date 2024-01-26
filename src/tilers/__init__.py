@@ -1,0 +1,1 @@
+from src.tilers.deep_zoom_static_tiler import DeepZoomStaticTiler
