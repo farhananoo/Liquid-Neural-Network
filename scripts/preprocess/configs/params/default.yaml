@@ -1,0 +1,6 @@
+tile_size: 254
+overlap: 1
+quality: 90
+background_limit: 50
+limit_bounds: true
+num_cpu: 10

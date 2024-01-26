@@ -1,0 +1,2 @@
+load_dir: "../../data/raw"
+save_dir: "../../data/intermediate"

@@ -1,0 +1,4 @@
+defaults:
+  - data: default
+  - training_params: default
+  - model: ???
